@@ -1,0 +1,7 @@
+         Model    factcc    G-Eval  LLM-QAGS
+0         BART  0.718349  0.752918  0.684267
+1           T5  0.748613  0.764721  0.110469
+2  Multi Model  0.885847  0.919308  0.860445
+
+
+** Process exited - Return Code: 0 **
